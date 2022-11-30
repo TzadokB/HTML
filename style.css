@@ -1,0 +1,15 @@
+IMG  {
+	  width:400;
+	  border:2px solid yellow;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.nice {
+ border-radius: 50%
